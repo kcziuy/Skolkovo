@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1572457517 source:c:\users\user\onedrive\Вова\skolkovo\skolkovo3\main.c
+	<stdio.h>
+	"my_malloc.h"
+
+1572455689 c:\users\user\onedrive\Вова\skolkovo\skolkovo3\my_malloc.h
+	<stddef.h>
+
+1572455810 source:c:\users\user\onedrive\Вова\skolkovo\skolkovo3\my_malloc.c
+	"my_malloc.h"
+
